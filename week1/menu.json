@@ -1,0 +1,51 @@
+{
+    "appetizer":[
+        {
+            "name": "Wings",
+            "sauces": ["Honey Mustard", "Barbeque", "Terriaki"],
+            "description": "Sound good to me"
+        },
+        {
+            "name": "Dips",
+            "types": ["Spinach artichoke", "Salsa", "Cheese Sauce"],
+            "description": "sounds great"
+        
+        }
+    ],
+    "sandwiches": [
+        {
+            "name": "Turkey and Cheese",
+            "ingredient": ["Turkey Meat", "Lettuce", "Tomato", "Onion"],
+            "description": "Sound good to me"
+        },
+        {
+            "name": "Steak and Cheese",
+            "ingredient": ["Steak", "Lettuce", "Tomato", "Onion"],
+            "description": "Sound good to me"
+        }
+    ],
+    "dessert": [
+        {
+            "name": "Cheesecake",
+            "ingredient": ["Strawberry", "Oreo", "Cherry"],
+            "description": "Sound good to me"
+        },
+        {
+            "name": "Pie",
+            "ingredient": ["Apple", "Cherry", "Lemon Meringue"],
+            "description": "Sound good to me"
+        }
+    ],
+    "drinks": [
+        {
+            "name": "Sprite",
+            "mix-in": ["Strawberry", "Lemonade", "Grape"],
+            "description": "Sound good to me"
+        },
+        {
+            "name": "Pepsi",
+            "mix-in": ["Cherry", "Stawberry", "Lemonade"],
+            "description": "Sound good to me"
+        }
+    ]
+}
